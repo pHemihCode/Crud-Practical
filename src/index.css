@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: #fff;
+}
+.main{
+    padding:30px;
+}
+.add-btn{
+    float:right;
+}
+td,.btn{
+    padding:15px 0;
+}
+.btn button,
+.add-btn button{
+    padding:5px 15px;
+}
+/* ---------------------------------------------INPUTS------------------------------------------------- */
+.the-form{
+    padding:20px;
+}
+label{
+    font-size:1rem;
+    font-weight:bold;
+    margin:4px 0;
+}
+.label-input{
+    display:flex;
+    flex-direction:column;
+    padding:5px;
+}
+input{
+    padding:5px;
+    background-color: rgb(244, 243, 243);
+}
+input:focus{
+    outline:0;
+}
+/* ------------------------------------Number Input Isshhh------------------------- */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+.the-content h2{
+    padding:10px 0;
+}
