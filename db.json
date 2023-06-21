@@ -1,18 +1,11 @@
 {
   "users": [
     {
-      "name": "Akintan",
-      "username": "Femi",
-      "phone": "080644784126",
-      "email": "femola10@gmail.com",
-      "id": 2
-    },
-    {
-      "name": "femi",
-      "username": "Adebayo",
-      "phone": "08066327477",
-      "email": "femiAde10@gmail.com",
-      "id": 3
+      "name": "Femi Akintan",
+      "username": "FemiOla",
+      "phone": "08064476317",
+      "email": "akintanfemi10@gmail.com",
+      "id": 4
     }
   ]
 }
